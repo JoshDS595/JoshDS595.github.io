@@ -1,0 +1,502 @@
+.homepage-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.homepage-homepage {
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  margin-right: 468px;
+  background-color: rgba(238, 238, 238, 1);
+}
+.homepage-rectangle2 {
+  top: 345px;
+  left: 310px;
+  width: 404px;
+  height: 414px;
+  position: absolute;
+  border-radius: 20px;
+}
+.homepage-image1 {
+  top: 325px;
+  left: 277px;
+  width: 405px;
+  height: 412px;
+  position: absolute;
+  border-radius: 20px;
+}
+.homepage-text {
+  top: 344px;
+  left: 1039px;
+  color: rgba(0, 0, 0, 1);
+  width: 596px;
+  height: auto;
+  position: absolute;
+  font-size: 100px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Cairo;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-rectangle3 {
+  top: 626px;
+  left: 1026px;
+  width: 268px;
+  height: 88px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+}
+.homepage-text2 {
+  top: 626px;
+  left: 1026px;
+  color: rgba(0, 0, 0, 1);
+  width: 268px;
+  height: auto;
+  position: absolute;
+  font-size: 60px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Hubballi;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-rectangle4 {
+  top: 626px;
+  left: 1367px;
+  width: 268px;
+  height: 88px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+}
+.homepage-text4 {
+  top: 626px;
+  left: 1367px;
+  color: rgba(0, 0, 0, 1);
+  width: 268px;
+  height: auto;
+  position: absolute;
+  font-size: 60px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Hubballi;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-text6 {
+  top: 527px;
+  left: 1121px;
+  color: rgba(0, 0, 0, 1);
+  width: 408px;
+  height: auto;
+  opacity: 0.60;
+  position: absolute;
+  font-size: 60px;
+  font-style: Light;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homepage-image14 {
+  top: 1020px;
+  left: 23px;
+  width: 47px;
+  height: 46px;
+  position: absolute;
+}
+.homepage-vector {
+  top: 311px;
+  left: 17px;
+  width: 58px;
+  height: 65px;
+  opacity: 0.00;
+  position: absolute;
+}
+.homepage-rectangle18 {
+  top: 0px;
+  left: 0px;
+  width: 96px;
+  height: 1084px;
+  position: absolute;
+}
+.homepage-frameiconsmarthome {
+  top: 327px;
+  left: 25px;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.homepage-vector01 {
+  top: 0px;
+  left: 0px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+.homepage-vector02 {
+  top: 8.333842277526855px;
+  left: 8.395832061767578px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+}
+.homepage-vector03 {
+  top: 31.25px;
+  left: 16.66666603088379px;
+  width: 17px;
+  height: 2px;
+  position: absolute;
+}
+.homepage-frameiconuser {
+  top: 402px;
+  left: 25px;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.homepage-vector04 {
+  top: 0px;
+  left: 0px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+.homepage-vector05 {
+  top: 6.25px;
+  left: 16.66666603088379px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+}
+.homepage-vector06 {
+  top: 31.25px;
+  left: 12.5px;
+  width: 25px;
+  height: 12px;
+  position: absolute;
+}
+.homepage-frameiconstack {
+  top: 477px;
+  left: 25px;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.homepage-vector07 {
+  top: 0px;
+  left: 0px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+.homepage-vector08 {
+  top: 8.333333015441895px;
+  left: 8.333333015441895px;
+  width: 33px;
+  height: 17px;
+  position: absolute;
+}
+.homepage-vector09 {
+  top: 25px;
+  left: 8.333333015441895px;
+  width: 33px;
+  height: 8px;
+  position: absolute;
+}
+.homepage-vector10 {
+  top: 33.33333206176758px;
+  left: 8.333333015441895px;
+  width: 33px;
+  height: 8px;
+  position: absolute;
+}
+.homepage-frameiconmail {
+  top: 638px;
+  left: 25px;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.homepage-vector11 {
+  top: 0px;
+  left: 0px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+.homepage-vector12 {
+  top: 10.416666984558105px;
+  left: 6.25px;
+  width: 37px;
+  height: 29px;
+  position: absolute;
+}
+.homepage-vector13 {
+  top: 14.583333015441895px;
+  left: 6.25px;
+  width: 37px;
+  height: 12px;
+  position: absolute;
+}
+.homepage-frameiconschool {
+  top: 563px;
+  left: 25px;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.homepage-vector14 {
+  top: 0px;
+  left: 0px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+.homepage-vector15 {
+  top: 10.416666984558105px;
+  left: 4.166666507720947px;
+  width: 42px;
+  height: 21px;
+  position: absolute;
+}
+.homepage-vector16 {
+  top: 22.083345413208008px;
+  left: 12.5px;
+  width: 25px;
+  height: 17px;
+  position: absolute;
+}
+.homepage-image15 {
+  top: 1020px;
+  left: 23px;
+  width: 47px;
+  height: 46px;
+  position: absolute;
+}
+.homepage-image16 {
+  top: 1020px;
+  left: 23px;
+  width: 47px;
+  height: 46px;
+  position: absolute;
+}
+.homepage-vector17 {
+  top: 311px;
+  left: 17px;
+  width: 58px;
+  height: 65px;
+  opacity: 0.00;
+  position: absolute;
+}
+.homepage-rectangle19 {
+  top: 0px;
+  left: 0px;
+  width: 96px;
+  height: 1084px;
+  position: absolute;
+}
+.homepage-frameiconsmarthome1 {
+  top: 327px;
+  left: 25px;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.homepage-vector18 {
+  top: 0px;
+  left: 0px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+.homepage-vector19 {
+  top: 8.333842277526855px;
+  left: 8.395832061767578px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+}
+.homepage-vector20 {
+  top: 31.25px;
+  left: 16.66666603088379px;
+  width: 17px;
+  height: 2px;
+  position: absolute;
+}
+.homepage-frameiconuser1 {
+  top: 402px;
+  left: 25px;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.homepage-vector21 {
+  top: 0px;
+  left: 0px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+.homepage-vector22 {
+  top: 6.25px;
+  left: 16.66666603088379px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+}
+.homepage-vector23 {
+  top: 31.25px;
+  left: 12.5px;
+  width: 25px;
+  height: 12px;
+  position: absolute;
+}
+.homepage-frameiconstack1 {
+  top: 477px;
+  left: 25px;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.homepage-vector24 {
+  top: 0px;
+  left: 0px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+.homepage-vector25 {
+  top: 8.333333015441895px;
+  left: 8.333333015441895px;
+  width: 33px;
+  height: 17px;
+  position: absolute;
+}
+.homepage-vector26 {
+  top: 25px;
+  left: 8.333333015441895px;
+  width: 33px;
+  height: 8px;
+  position: absolute;
+}
+.homepage-vector27 {
+  top: 33.33333206176758px;
+  left: 8.333333015441895px;
+  width: 33px;
+  height: 8px;
+  position: absolute;
+}
+.homepage-frameiconmail1 {
+  top: 638px;
+  left: 25px;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.homepage-vector28 {
+  top: 0px;
+  left: 0px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+.homepage-vector29 {
+  top: 10.416666984558105px;
+  left: 6.25px;
+  width: 37px;
+  height: 29px;
+  position: absolute;
+}
+.homepage-vector30 {
+  top: 14.583333015441895px;
+  left: 6.25px;
+  width: 37px;
+  height: 12px;
+  position: absolute;
+}
+.homepage-frameiconschool1 {
+  top: 563px;
+  left: 25px;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.homepage-vector31 {
+  top: 0px;
+  left: 0px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+.homepage-vector32 {
+  top: 10.416666984558105px;
+  left: 4.166666507720947px;
+  width: 42px;
+  height: 21px;
+  position: absolute;
+}
+.homepage-vector33 {
+  top: 22.083345413208008px;
+  left: 12.5px;
+  width: 25px;
+  height: 17px;
+  position: absolute;
+}
+.homepage-image17 {
+  top: 1020px;
+  left: 23px;
+  width: 47px;
+  height: 46px;
+  position: absolute;
+}
